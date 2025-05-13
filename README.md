@@ -31,3 +31,30 @@
    ```bash
    git clone https://github.com/saikumar-pujari/sqlite3-crud-basics.git
    cd sqlite3-crud-basics
+2.Run the Python script:
+   python crud_demo.py
+
+---
+
+## 🖥️ Sample Output
+📚 Initial Data: [(1, 'saikuamr'), (2, 'nikihil'), (3, 'sainath')]
+🛠️ After Update: [(1, 'saikumar'), (2, 'nikihil'), (3, 'sainath')]
+❌ After Delete: [('saikumar', 54), ('sainath', 6545)]
+
+---
+###🧠 What You'll Learn
+
+1)How to interact with SQLite3 using Python
+
+2)Perform CRUD operations in-memory
+
+3)Use rowid as a unique identifier
+
+4)Practice SQL basics in a safe, local environment
+
+---
+##👨‍💻 Author
+Sai Kumar
+Second-year CSE student, code tinkerer, and system breaker in training.
+🔗 GitHub
+---
